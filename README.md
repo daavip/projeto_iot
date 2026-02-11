@@ -43,3 +43,7 @@ Formato de Dados (JSON)
 Qual BD de Persistência?
 
 Qual Tecnologia/Linguagem para API?
+
+# Print do Circuito
+<img width="615" height="565" alt="image" src="https://github.com/user-attachments/assets/519e2acd-8b9c-4f9a-888c-b245334d306d" />
+
