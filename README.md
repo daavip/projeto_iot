@@ -54,7 +54,7 @@
 
 ### d) Tecnologia/Linguagem para API
 
-**Spring Boot / Java** (API)
+**.NET / C#** (API)
 
 ### e) Plataforma de Prototipagem
 
